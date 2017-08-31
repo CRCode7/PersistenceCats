@@ -2,7 +2,7 @@
 
 Estimados compañeros de Coursera, se ha adjuntado la carpeta Java del proyecto, se ha generado una base de datos con dos tablas.
 
-Les comparto el código del archivo BaseDatos.java, he dejado unos pantallazos para su descarga (En la carpeta CATS se encuentran), pueden revisar los demás archivos java, descargando la carpeta adjuntada.
+Les comparto el código del archivo BaseDatos.java, he dejado unos pantallazos para su descarga (En la carpeta CATS se encuentran), pueden revisar los demás archivos java, descargando la carpeta adjuntada (java).
 
 package com.crcr.listagatos.db;
 
